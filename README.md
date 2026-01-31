@@ -12,9 +12,9 @@
 
 ### 🧩 About
 
-> 我是一个 **软件设计师**  
+> I am a **Software Designer**  
 >
-> 专注于 **系统结构、抽象建模、复杂问题简化**  
+> Specializing in **System Architecture, Abstract Modeling, Simplifying Complex Problems**  
 
 ---
 
